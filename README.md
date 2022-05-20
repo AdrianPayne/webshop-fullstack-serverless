@@ -17,7 +17,10 @@ Based in Python, using AWS lambdas functions and API Gateway as an API.
 | /orders | POST | payload: {client, shoe_reference, size, shipping_information} | Invoice as Response and stored in S3 bucket|
 
 ## Frontend
-[WIP]
+React App using Typescript
+
+Figma prototype
+![figma_webshop](https://user-images.githubusercontent.com/8972362/169586419-64e56fb1-aa8d-4463-8ca1-d6f7780ed9eb.gif)
 
 ## Deploy
 ### Backend
@@ -38,6 +41,11 @@ Delete lambdas
 
 ### Frontend
 Continuous development from Github to Amplify
+
+Run localy
+```
+npm start
+```
 
 ## Test
 Test suit in AWS Lambda console
