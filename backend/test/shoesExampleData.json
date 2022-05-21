@@ -1,0 +1,113 @@
+[
+{
+    "id": {
+        "S": "AIR PRESTO - Trainers"
+    },
+    "img": {
+        "S": "https://webshopshoes.s3.us-east-2.amazonaws.com/product-photos/1.webp"
+    },
+    "brand": {
+        "S": "Nike"
+    },
+    "available_sizes": {
+      "L": [
+        {
+          "S": "9"
+        },
+        {
+          "S": "10"
+        },
+        {
+          "S": "11"
+        }
+      ]
+    },
+    "price": {
+        "S": "108.65"
+    }
+},
+  {
+    "id": {
+        "S": "REPOSTO - Trainers"
+    },
+    "img": {
+        "S": "https://webshopshoes.s3.us-east-2.amazonaws.com/product-photos/2.webp"
+    },
+    "brand": {
+        "S": "Nike"
+    },
+    "available_sizes": {
+      "L": [
+        {
+          "S": "9"
+        },
+        {
+          "S": "10"
+        },
+        {
+          "S": "11"
+        },
+        {
+          "S": "12"
+        }
+      ]
+    },
+    "price": {
+        "S": "69.99"
+    }
+},
+    {
+    "id": {
+        "S": "FLEX ADVANCE UNISEX - Trainers"
+    },
+    "img": {
+        "S": "https://webshopshoes.s3.us-east-2.amazonaws.com/product-photos/3.webp"
+    },
+    "brand": {
+        "S": "Nike"
+    },
+    "available_sizes": {
+      "L": [
+        {
+          "S": "9"
+        },
+        {
+          "S": "10"
+        },
+        {
+          "S": "11"
+        }
+      ]
+    },
+    "price": {
+        "S": "35.40"
+    }
+},
+      {
+    "id": {
+        "S": "DYNAMIC - Trainers"
+    },
+    "img": {
+        "S": "https://webshopshoes.s3.us-east-2.amazonaws.com/product-photos/4.webp"
+    },
+    "brand": {
+        "S": "Versace"
+    },
+    "available_sizes": {
+      "L": [
+        {
+          "S": "9"
+        },
+        {
+          "S": "10"
+        },
+        {
+          "S": "11"
+        }
+      ]
+    },
+    "price": {
+        "S": "1290.99"
+    }
+}
+]
