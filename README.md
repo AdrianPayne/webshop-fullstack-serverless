@@ -2,6 +2,8 @@
 Webshop fulstacck build using different serverless AWS technologies
 
 [**ON LIVE**](https://master.d37d90ln5gjdz5.amplifyapp.com/)
+
+[**S3 invoice folder**](https://s3.console.aws.amazon.com/s3/buckets/webshopshoes?region=us-east-2&tab=objects)
 ## Architecture
 <div align="center">
   <img src="https://user-images.githubusercontent.com/8972362/169554059-c3ec0bcd-869a-43b7-ba94-97a122c7517a.png"/>
