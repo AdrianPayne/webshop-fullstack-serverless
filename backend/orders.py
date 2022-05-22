@@ -1,9 +1,8 @@
 from __future__ import print_function
 import boto3
+from datetime import datetime
 import io
-import os
 
-from config import Config
 
 print('Loading function')
 
@@ -25,6 +24,9 @@ def handler(event, context):
 
     # Store order
     order = event.get('payload')
+    # Create ID for order
+    order_id = order['client'] + datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    order['id'] = order_id
     table_orders.put_item(Item={**order})
 
     # Invoice
