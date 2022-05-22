@@ -35,6 +35,11 @@ Deploy lambdas
 ./devops/deploy_lambdas.sh
 ```
 
+Update Lambdas
+```
+./devops/update_lambdas.sh
+```
+
 Delete lambdas
 ```
 ./devops/delete_lambdas.sh
