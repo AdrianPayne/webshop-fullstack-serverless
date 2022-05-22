@@ -78,7 +78,6 @@ function BuyProduct(props){
         const createOrder = function() {
             return( {
                 "payload": {
-                    "id": "FRONTEND_2",
                     "client": usuario,
                     "shoe_reference": product.id,
                     "size": size,
